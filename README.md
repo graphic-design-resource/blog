@@ -138,3 +138,5 @@ See [LICENSE](LICENSE) for more information.
 Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
 
 [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
+
+https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn
